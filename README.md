@@ -1,0 +1,1 @@
+This repo contains a small test dataset for Celldega. The data was acquired by Spatial Technology Platform at the Broad Institute for the manuscript: [Systematic benchmarking of imaging spatial transcriptomics platforms in FFPE tissues](https://www.biorxiv.org/content/10.1101/2023.12.07.570603v2)
